@@ -1,2 +1,2 @@
-include ':app'
+include ':Lifecycle'
 rootProject.name = "JetpackDemo"
